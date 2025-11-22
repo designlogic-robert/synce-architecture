@@ -1,11 +1,4 @@
-SynCE Architecture — Public Specification (v1.0)
-
-Synchronized Cognitive Engine
-
-SynCE is a semantic-level engine for LLM systems.
-Where most AI frameworks operate on prompts or heuristics, SynCE structures meaning, control, and orchestration into deterministic, auditable layers.
-
-This repository defines the public, stable architecture of the SynCE stack.
+### SynCE is a domain-specific Cognitive Engine built on top of the Universal Semantic Runtime (USR) and Universal Semantic Token Model (UST). This repo describes the architecture of SynCE: how it uses Semantic Core, SCP.Core, ORCH-C, and domain semantics.
 
 1. Purpose
 
